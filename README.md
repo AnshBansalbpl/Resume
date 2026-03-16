@@ -11,11 +11,16 @@
 
 # About Me
 
-Computer Science undergraduate at **Vellore Institute of Technology Bhopal** with strong interest in **full-stack development, scalable backend systems, and machine learning applications**.
+Computer Science undergraduate at **Vellore Institute of Technology Bhopal** with a strong interest in **software development, scalable backend systems, and data-driven applications**.
 
-* Solved **400+ problems on LeetCode**
-* Experienced with **MERN stack development**
-* Interested in **building impactful web platforms and AI-based solutions**
+I enjoy building **full-stack web platforms using the MERN stack**, while also expanding my skills in **Artificial Intelligence and Data Engineering**. Currently exploring how intelligent systems, machine learning models, and modern data pipelines can be used to build impactful real-world solutions.
+
+My focus areas include:
+
+* Full Stack Web Development (MERN Stack)
+* Data Structures & Algorithms
+* Machine Learning Applications
+* Data Engineering and Cloud-based Data Systems
 
 ---
 
@@ -66,19 +71,19 @@ Computer Science undergraduate at **Vellore Institute of Technology Bhopal** wit
 
 Full-stack reading platform aggregating blogs, book summaries, ebooks and reels.
 
-🔗 Live Demo
+🔗 **Live Demo**
 https://biblio-manzil.vercel.app
 
 Tech Stack
-React • Node.js • Express.js • MongoDB • Firebase Auth • Cloudinary
+React • Node.js • Express.js • MongoDB • Firebase Authentication • Cloudinary
 
 Key Features
 
-* Built a responsive reading platform integrating curated learning content
-* Developed RESTful APIs with Node.js and Express
-* Implemented secure login using Firebase Authentication
-* Built an admin dashboard for dynamic content publishing
-* Optimized media delivery using Cloudinary
+* Built a responsive reading platform integrating curated learning content.
+* Developed RESTful APIs with Node.js and Express for backend functionality.
+* Implemented secure authentication using Firebase Authentication.
+* Built an admin dashboard for dynamically publishing and managing content.
+* Optimized media delivery and storage using Cloudinary.
 
 ---
 
@@ -91,10 +96,10 @@ MongoDB • Express.js • React • Node.js • Socket.IO • JWT
 
 Key Features
 
-* Alumni networking platform with profile and job board system
-* Implemented secure authentication using JWT
-* Integrated real-time messaging using Socket.IO
-* Improved engagement by enabling real-time notifications and chat
+* Developed an alumni networking platform with profile management and a job board.
+* Designed and secured REST APIs using JWT authentication.
+* Integrated real-time private messaging using Socket.IO.
+* Improved engagement through real-time notifications and messaging features.
 
 ---
 
@@ -107,15 +112,15 @@ Python • Scikit-learn • Pandas
 
 Key Features
 
-* Built models using Random Forest, SVM and CNN
-* Designed pipeline for medical data preprocessing
-* Achieved strong predictive performance for heart disease and diabetic retinopathy detection
+* Built machine learning models including Random Forest, SVM and CNN.
+* Designed a data preprocessing pipeline for medical datasets.
+* Created predictive models for heart disease and diabetic retinopathy detection.
 
 ---
 
 # Achievements & Certifications
 
-* Solved **400+ problems on LeetCode**
+* Solved **400+ problems on LeetCode**, strengthening algorithmic thinking and problem solving.
 * **Oracle Cloud Infrastructure DevOps Professional**
 * **Gen AI using IBM Watsonx**
 * **Full Stack Developer (MERN) – Smartbridge**
@@ -125,9 +130,9 @@ Key Features
 
 # Extracurricular Activities
 
-* Conducted peer **mathematics study groups** to help classmates improve academic performance
-* Completed **PwC Cloud Technology Development Programme (CTDP 3.0)** with Salesforce Trailhead training
-* Organized multiple **technical and non-technical college events**
+* Facilitated peer **mathematics study groups** helping classmates master complex topics.
+* Completed **PwC Cloud Technology Development Programme (CTDP 3.0)** including Salesforce training on Trailhead.
+* Helped organize multiple **technical and non-technical college events**, coordinating teams and logistics.
 
 ---
 
