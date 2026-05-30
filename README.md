@@ -141,7 +141,7 @@ Key Features
 **Vellore Institute of Technology Bhopal**
 B.Tech in Computer Science
 2022 – 2026
-CGPA: **8.66**
+CGPA: **8.74**
 
 **St. Joseph Co-Ed School**
 CBSE (PCM)
