@@ -159,4 +159,4 @@ Percentage: **85.17%**
 
 You can also view the full resume here:
 
-[Download Resume](./Ansh_Bansal_Resume.pdf)
+[Download Resume](./Ansh_Resume.pdf)
